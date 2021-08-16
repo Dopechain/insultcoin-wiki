@@ -7,7 +7,7 @@
 
 ### Other InsultCoin Repos
 
-This repo is for the arguably OK smart contract code?
+This repo is for the wiki.
 * [Go take a peek at the smart contract code!](https://github.com/Dopechain/insultcoin-wiki/wiki)
 * [We have a repository for logos and icons.](https://github.com/Dopechain/insultcoin-logo)
 * [Go take a peek at the **absolutely horrifying** web interface code](https://github.com/Dopechain/insultcoin-web "It's called a 'web' interface because it's a tangled web of spaghetti code.")
